@@ -9,4 +9,8 @@ public class Spark {
      public void notifyUser(){
         System.out.println("hello user:");
      }
+
+     public void Authentication(){
+        System.out.println("authen");
+     }
 }
