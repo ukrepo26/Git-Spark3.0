@@ -6,4 +6,7 @@ public class Spark {
     public void payment(){
         System.out.println("payment:");
     }
+     public void notifyUser(){
+        System.out.println("hello user:");
+     }
 }
